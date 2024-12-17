@@ -1,0 +1,33 @@
+@import url('https: //fonts.googleapis.com/css2?family=Creepster&family=Nosifer&display=swap');
+
+
+body {
+    font-family: Creepster, cursive;
+}
+
+body.dark {
+    background-color: black;
+
+    color: white;
+
+}
+
+.textentry {
+    margin-top: 15px;
+
+    margin-bottom: 15px;
+
+}
+
+button {
+    display: block;
+
+    margin: 5px;
+
+}
+
+
+.hidden {
+    display: none;
+
+}
